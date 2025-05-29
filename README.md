@@ -2,11 +2,14 @@
 
 <h2>Description</h2>
 I collaborated with the Sales Team to analyze customer demand, which enabled us to secure funding for a $3 million project involving the installation of 2 new bulk storage tanks and a new truck loading station. By evaluating our customer's capacity requirements—particularly under worst-case scenarios—we identified the need for enhanced infrastructure to meet their expectations reliably.
-
+<br />
+<br />
 The approved project included the construction of two bulk tanks, each capable of holding seven truckloads, as well as a new, high-efficiency truck loading station. This new station significantly improved logistics, reducing truck turnaround time to under 30 minutes. Additionally, we cleaned and repurposed the existing storage tanks for other finished products.
-
+<br />
+<br />
 Overall, this project greatly improved our flexibility in managing finished materials across multiple product grades, strengthening our ability to respond to dynamic customer needs.
-
+<br />
+<br />
 
 
 
