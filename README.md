@@ -15,10 +15,10 @@ Overall, this project greatly improved our flexibility in managing finished mate
 
 <p align="center">
 Cutting the Ribbon on Truck Loading Station : <br/>
-<img src="https://i.imgur.com/l49olHB.jpeg"/>
+<img src="https://i.imgur.com/4N6G8P7.jpeg"/>
 <br />
 <br /><p align="center">
 Loading the First Truck : <br/>
-<img src="https://i.imgur.com/iDao1Hf.jpeg"/>
+<img src="https://i.imgur.com/ZYkVEPH.jpeg"/>
 <br />
 <br />
